@@ -1,7 +1,7 @@
 "use client"
 import React, { useEffect } from 'react'
-import HeadingDescription from './headingDescription'
-import lookup from '@/app/_Data/lookup'
+import HeadingDescription from './HeadingDescription'
+import lookup from '@/app/_Data/LookUp'
 import Image from 'next/image'
 import { Button } from '@/components/ui/button'
 import { SignInButton, useUser } from '@clerk/nextjs'

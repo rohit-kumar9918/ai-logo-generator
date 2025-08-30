@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
-import HeadingDescription from './headingDescription'
-import lookup from '@/app/_Data/lookup'
+import HeadingDescription from './HeadingDescription'
+import lookup from '@/app/_Data/LookUp'
 import color from '@/app/_Data/color'
 
 

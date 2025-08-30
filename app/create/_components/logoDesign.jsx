@@ -1,6 +1,6 @@
-import lookup from '@/app/_Data/lookup'
+import lookup from '@/app/_Data/LookUp'
 import React, { useState } from 'react'
-import HeadingDescription from './headingDescription'
+import HeadingDescription from './HeadingDescription'
 import Image from 'next/image'
 import logoDesin from '@/app/_Data/logoDesin'
 

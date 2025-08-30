@@ -1,6 +1,6 @@
 "use client"
 import React, { useState } from 'react'
-import lookup from '../_Data/lookup'
+import lookup from '../_Data/LookUp'
 import { Button } from '@/components/ui/button'
 import Link from 'next/link'
 const hero = () => {

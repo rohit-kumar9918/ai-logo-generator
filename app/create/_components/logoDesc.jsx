@@ -1,6 +1,6 @@
 import React from 'react'
-import HeadingDescription from './headingDescription'
-import lookup from '@/app/_Data/lookup'
+import HeadingDescription from './HeadingDescription'
+import lookup from '@/app/_Data/LookUp'
 const logoDesc = ({onHandleInputChange,FormData}) => {
   return (
     <div className='my-10'>

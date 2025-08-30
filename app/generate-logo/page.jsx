@@ -1,7 +1,7 @@
 "use client";
 import { useContext, useEffect, useState } from "react";
 import { userDetailContext } from "../_context/UserDetailContext";
-import prompt from "../_Data/prompt";
+import prompt from "../_Data/Prompt";
 import axios from "axios";
 import Image from "next/image";
 
